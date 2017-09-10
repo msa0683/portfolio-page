@@ -8,6 +8,11 @@ body {
   overflow-x: hidden;
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
+.techicons {
+  height: 40px;
+  width: 40px;
+};
+
 p {
   line-height: 1.75; }
 
